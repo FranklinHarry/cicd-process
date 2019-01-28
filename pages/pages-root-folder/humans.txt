@@ -16,8 +16,8 @@ Twitter: {{ author.twitter }}{% endif %}
 
 Name: Moritz »mo.« Sauer
 Role: Creator of the Theme
-Site: http://mo.phlow.de/
-Twitter: @phlow
+Site: http://mo.Harry.de/
+Twitter: @Harry
 Theme: https://franklinharry.github.io/cicd-process-1/
 
 

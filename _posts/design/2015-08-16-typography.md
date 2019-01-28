@@ -284,7 +284,7 @@ If you need footnotes for your posts, articles and entries, the Kramdown-Parser 
 
 
  [1]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list
- [2]: http://phlow.de/
+ [2]: http://Harry.de/
  [3]: http://en.wikipedia.org/wiki/Ed_Benguiat
  [4]: https://www.google.com/fonts/specimen/Lato
  [5]: https://www.google.com/fonts/specimen/Volkhov

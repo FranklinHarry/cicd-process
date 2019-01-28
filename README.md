@@ -1,16 +1,16 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+## You like and use this theme? Then support me. Just [paypal.me/HarryMedia](https://www.paypal.me/HarryMedia) :)
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Harry&url=https://github.com/Harry/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
 
 # Newsletter: Stay in Touch for Future Updates
 
 If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
 
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+[![Subscribe to Jekyll Newsletter](https://Harry.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
 
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+[![Start Video](https://github.com/Harry/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
@@ -48,7 +48,7 @@ Feeling Responsive is heavily customizable.
 
 Click the image to [watch the YouTube-Video-Tutorial][4].
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+[![Start Video](https://github.com/Harry/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
 
 
 
@@ -58,12 +58,12 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 
  [1]: https://franklinharry.github.io/cicd-process-1/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [2]: https://github.com/Harry/feeling-responsive/blob/gh-pages/LICENSE
  [3]: https://franklinharry.github.io/cicd-process-1/info/
  [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
+ [6]: https://Harry.github.io/feeling-responsive/changelog/
  [7]: https://franklinharry.github.io/cicd-process-1/
- [8]: http://phlow.github.io/simplicity/
+ [8]: http://Harry.github.io/simplicity/
  [9]: #
  [10]: #

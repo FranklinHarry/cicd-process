@@ -161,8 +161,8 @@ Sometimes you want to give credit to the creator of your images, maybe with a li
 ~~~
 image:
     title: header_image.jpg
-    caption: Image by Phlow
-    caption_url: "http://phlow.de/"
+    caption: Image by Harry
+    caption_url: "http://Harry.de/"
 ~~~
 
 ### Define all images for an article
@@ -172,8 +172,8 @@ image:
     title: title_image.jpg
     thumb: thumbnail_image.jpg
     homepage: header_homepage_13.jpg
-    caption: Image by Phlow
-    caption_url: "http://phlow.de/"
+    caption: Image by Harry
+    caption_url: "http://Harry.de/"
 ~~~
 
 

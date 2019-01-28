@@ -42,7 +42,7 @@ All possible functions and how to use *mediaelement.js* is well-documented on th
 
 ## »Music From All Around The World«
 
-[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
+[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Harry-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
 
 ### B-Ju - »Philly Run«
 
@@ -64,7 +64,7 @@ All possible functions and how to use *mediaelement.js* is well-documented on th
  [1]: http://mediaelementjs.com/
  [2]: http://jcorneille.de/
  [3]: www.creativecommons.org/licenses/by-nc-nd/3.0/
- [4]: http://phlow-magazine.com/
+ [4]: http://Harry-magazine.com/
  [5]: https://archive.org/details/music_from_all_around_the_world
  [6]: #
  [7]: #

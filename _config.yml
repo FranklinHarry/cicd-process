@@ -9,7 +9,7 @@ slogan: 'HiMinds - A DevOps mindset company'
 # The description.
 description: '»CICD Process« is a repository about cicd process and collections tools and scripts.'
 
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+# The credits show up in the includes/_footer.html  
 credits: '<p>Created with &hearts; by <Harry>.</p>'
 
 # Main author of the website
@@ -91,7 +91,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Harry     # Default author for pages
   -
     scope:
       path: ''
@@ -100,7 +100,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Harry     # Default author for posts
 
 
 
